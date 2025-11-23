@@ -1,8 +1,8 @@
 # UI Testing Playground – Playwright Automation Suite
 
 This repository contains a complete collection of automated tests for the  
-**UI Testing Playground** website, implemented using **Playwright** along with a  
-Page Object Model (POM) structure.
+**[UI Testing Playground](http://uitestingplayground.com/)** website, implemented using **Playwright** along with a  
+Page Object Model (POM) structure. 
 
 The goal of this project is to practice and demonstrate handling of difficult  
 UI automation scenarios, such as unstable elements, dynamic behaviors,  
