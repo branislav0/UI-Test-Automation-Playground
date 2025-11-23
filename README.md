@@ -45,6 +45,7 @@ This project demonstrates:
 
 It also serves as a reference for learning Playwright on a deeper level by  
 solving all main challenges of the UI Testing Playground website.
+<img width="855" height="899" alt="web" src="https://github.com/user-attachments/assets/d5438280-53b3-4ee8-ab26-4c0261744ee5" />
 
 ---
 
