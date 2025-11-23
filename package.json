@@ -1,13 +1,14 @@
 {
-  "name": "${PROJECT_NAME}",
+  "name": "automation_tests",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc"
   },
-  "dependencies": {},
   "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.10.1",
     "typescript": "^5.5.3"
   },
   "private": true
